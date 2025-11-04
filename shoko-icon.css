@@ -1,119 +1,127 @@
-.itemExternalLinks a[href*="http://localhost:8111/webui/collection/group"] {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/collection/group"] {
     background: none !important;
     color: transparent !important;
     padding: 0 !important;
 }
 
-.itemExternalLinks a[href*="http://localhost:8111/webui/collection/group"]::before {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/collection/group"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-group.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Tarruck/jellyfin-icon-metadata@main/icons/shoko/shoko-group.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
 	vertical-align: middle;
 }
 
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/collection/group"]:hover,
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/collection/group"]:focus,
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/collection/group"]:active {
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/collection/group"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/collection/group"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/collection/group"]:active {
     background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
     filter: none !important;
-    border: none !important;
+    border-color: transparent !important;
 }
 
-.itemExternalLinks a[href*="http://localhost:8111/webui/collection/group"] {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/collection/group"] {
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="http://localhost:8111/webui/collection/series"] {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/collection/series"] {
     background: none !important;
     color: transparent !important;
     padding: 0 !important;
 }
 
-.itemExternalLinks a[href*="http://localhost:8111/webui/collection/series"]::before {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/collection/series"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-series.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Tarruck/jellyfin-icon-metadata@main/icons/shoko/shoko-series.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
 	vertical-align: middle;
 }
 
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/collection/series"]:hover,
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/collection/series"]:focus,
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/collection/series"]:active {
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/collection/series"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/collection/series"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/collection/series"]:active {
     background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
     filter: none !important;
-    border: none !important;
+    border-color: transparent !important;
 }
 
-.itemExternalLinks a[href*="http://localhost:8111/webui/collection/series"] {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/collection/series"] {
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="http://localhost:8111/webui/redirect/episode"] {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/redirect/episode"] {
     background: none !important;
     color: transparent !important;
     padding: 0 !important;
 }
 
-.itemExternalLinks a[href*="http://localhost:8111/webui/redirect/episode"]::before {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/redirect/episode"]::before {
 	content: "";
 	display: inline-block;
 	width: 65px;
 	height: 25px;
-	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-episode.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Tarruck/jellyfin-icon-metadata@main/icons/shoko/shoko-episode.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
 	vertical-align: middle;
 }
 
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/redirect/episode"]:hover,
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/redirect/episode"]:focus,
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/redirect/episode"]:active {
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/redirect/episode"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/redirect/episode"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/redirect/episode"]:active {
     background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
     filter: none !important;
-    border: none !important;
+    border-color: transparent !important;
 }
 
-.itemExternalLinks a[href*="http://localhost:8111/webui/redirect/episode"] {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/redirect/episode"] {
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="http://localhost:8111/webui/redirect/file"] {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/redirect/file"] {
     background: none !important;
     color: transparent !important;
     padding: 0 !important;
 }
 
-.itemExternalLinks a[href*="http://localhost:8111/webui/redirect/file"]::before {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/redirect/file"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-file.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Tarruck/jellyfin-icon-metadata@main/icons/shoko/shoko-file.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
 	vertical-align: middle;
 }
 
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/redirect/file"]:hover,
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/redirect/file"]:focus,
-.itemExternalLinks.focuscontainer-x > a[href*="http://localhost:8111/webui/redirect/file"]:active {
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/redirect/file"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/redirect/file"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="http://127.0.0.1:8111/webui/redirect/file"]:active {
     background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
     filter: none !important;
-    border: none !important;
+    border-color: transparent !important;
 }
 
-.itemExternalLinks a[href*="http://localhost:8111/webui/redirect/file"] {
+.itemExternalLinks a[href*="http://127.0.0.1:8111/webui/redirect/file"] {
 	font-size: 0;
 }
